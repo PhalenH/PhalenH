@@ -1,4 +1,4 @@
-# Welcome 👋 I'm Phalen Hazel, Fullstack Developer
+# Welcome 👋
 
 I'm Phalen Hazel, Fullstack Developer & Physical Therapist Assistant pursuing a career change into the Information Technology (IT) field as a hard-working, detail oreinted, and self-driven developer. University of Pennsylvania LPS Coding bootcamp graduate involving 24 intensive weeks dedicated to designing and building full-stack web applications. Developed a secret santa manager website, Brunch focused web app, and a tech related blog site among others. Passionate about turning ideas into results through accurate code, creative designs, and fluid user interactions and experiences. Proven proficiency in a variety of web based technologies, combined with my strong work ethic and detail oriented approach, make me a strong addition to any project.
 
