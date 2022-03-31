@@ -1,7 +1,4 @@
-# Welcome 👋
-
-
-## I'm Phalen Hazel, Fullstack Developer
+# Welcome 👋 I'm Phalen Hazel, Fullstack Developer
 
 
 ![Phalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhalenH&show_icons=true&theme=aura_dark)
