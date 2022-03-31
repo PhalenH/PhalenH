@@ -2,7 +2,8 @@
 
 I'm Phalen Hazel, Fullstack Developer & Physical Therapist Assistant pursuing a career change into the Information Technology (IT) field as a hard-working, detail oreinted, and self-driven developer. University of Pennsylvania LPS Coding bootcamp graduate involving 24 intensive weeks dedicated to designing and building full-stack web applications. Developed a secret santa manager website, Brunch focused web app, and a tech related blog site among others. Passionate about turning ideas into results through accurate code, creative designs, and fluid user interactions and experiences. Proven proficiency in a variety of web based technologies, combined with my strong work ethic and detail oriented approach, make me a strong addition to any project.
 
-Want to know more about me? ###[Check out my portfolio!](https://phalenh.github.io/phalen-portfolio/)
+Want to know more about me? 
+###[Check out my portfolio!](https://phalenh.github.io/phalen-portfolio/)
 
 ## 📌 Pinned Repositories
 
@@ -61,8 +62,8 @@ Want to know more about me? ###[Check out my portfolio!](https://phalenh.github.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jquery/jquery.png" />
 
 ## 📫 How to reach me: ...
-###- Find me on <a href="https://www.linkedin.com/in/phalen-hazel" target="_blank">LinkedIn</a>
-###- Send an email and let's talk, just click <a href="mailto:phalenhazel@gmail.com" target="_blank">HERE</a>
+- ###Find me on <a href="https://www.linkedin.com/in/phalen-hazel" target="_blank">LinkedIn</a>
+- ###Send an email and let's talk, just click <a href="mailto:phalenhazel@gmail.com" target="_blank">HERE</a>
 <!--
 
 Here are some ideas to get you started:
