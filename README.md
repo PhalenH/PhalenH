@@ -4,8 +4,6 @@ I'm Phalen Hazel, Fullstack Developer & Physical Therapist Assistant pursuing a 
 
 Want to know more about me? [Check out my portfolio!](https://phalenh.github.io/phalen-portfolio/)
 
-![Phalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhalenH&show_icons=true&theme=aura_dark)
-
 ## 📌 Pinned Repositories
 
 <br>
@@ -42,6 +40,10 @@ Want to know more about me? [Check out my portfolio!](https://phalenh.github.io/
 
 <br>
 <br>
+
+## &#x1f4c8; GitHub Stats
+
+![Phalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhalenH&show_icons=true&theme=aura_dark)
 
 ## 📫 How to reach me: ...
 - Find me on <a href="https://www.linkedin.com/in/phalen-hazel" target="_blank">LinkedIn</a>
