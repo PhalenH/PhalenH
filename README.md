@@ -43,7 +43,7 @@ Want to know more about me? [Check out my portfolio!](https://phalenh.github.io/
 
 ## &#x1f4c8; GitHub Stats
 
-![Phalen's GitHub stats](https://phalen-h.vercel.app/api?username=PhalenH&show_icons=true&theme=aura_dark)
+![Phalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhalenH&show_icons=true&theme=theme=radical)
 
 
 ## 💼 Skills
