@@ -9,33 +9,33 @@ Want to know more about me? [Check out my portfolio!](https://phalenh.github.io/
 <br>
 
 <a href="https://github.com/PhalenH/brunch-bites">
-  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=brunch-bites&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=brunch-bites&theme=algolia" />
 </a>
 
 
 <a href="https://github.com/PhalenH/gift-exchange-manager">
-  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=gift-exchange-manager&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=gift-exchange-manager&theme=algolia" />
 </a>
 
 <br>
 
 <a href="https://github.com/PhalenH/tech-blog">
-  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=tech-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=tech-blog&theme=algolia" />
 </a>
 
 
 <a href="https://github.com/PhalenH/budget-tracker">
-  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=budget-tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=budget-tracker&theme=algolia" />
 </a>
 
 <br>
 <a href="https://github.com/PhalenH/MazeGen">
-  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=MazeGen&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=MazeGen&theme=algolia" />
 </a>
 
 
 <a href="https://github.com/PhalenH/weather-dashboard">
-  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=weather-dashboard&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=PhalenH&repo=weather-dashboard&theme=algolia" />
 </a>
 
 <br>
@@ -43,7 +43,7 @@ Want to know more about me? [Check out my portfolio!](https://phalenh.github.io/
 
 ## &#x1f4c8; GitHub Stats
 
-![Phalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhalenH&show_icons=true&theme=theme=radical)
+![Phalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhalenH&show_icons=true&theme=algolia)
 
 
 ## 💼 Skills
