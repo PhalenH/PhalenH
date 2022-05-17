@@ -2,7 +2,7 @@
 
 I'm Phalen Hazel, Software Developer with a healthcare background and long-standing drive for learning and helping others. Earned a certificate in full stack development from the University of Pennsylvania. Passionate about creating fluid, captivating websites and web applications through accurate code, creative designs, and modern solutions. Proven proficiency in a variety of web based technologies, combined with a strong work ethic and detail oriented approach, make me a strong addition to any project or team.
 
-Want to know more about me? [Check out my portfolio!](https://phalenh.github.io/phalen-portfolio/)
+Want to know more about me? [Check out my portfolio!](https://phalenhazel.com/)
 
 ## 📌 Pinned Repositories
 
