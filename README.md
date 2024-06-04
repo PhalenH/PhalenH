@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm Phalen Hazel, Software Developer with a healthcare background and long-standing drive for learning and helping others. Earned a certificate in full stack development from the University of Pennsylvania. Passionate about creating fluid, captivating websites and web applications through accurate code, creative designs, and modern solutions. Proven proficiency in a variety of web based technologies, combined with a strong work ethic and detail oriented approach, make me a strong addition to any project or team.
+I'm Phalen Hazel, full time Software Engineer within PNC's Enterprise Technology & Services practice. Currently working on writing code for test case automation, leading a team of testers, and conducting front-end and back-end validations. Current focus on use of Java, JavaScript, APIs, and SQL skills to partake in continuous integration/continuous deployment (CI/CD) pipeline. Professionally driven by a commitment to clean code, agile practices, and attention to detail. I'm interested in full-stack development, continuous learning, AI functionality, and using technological tools to help others.
 
 Want to know more about me? [Check out my portfolio!](https://phalenhazel.com/)
 
