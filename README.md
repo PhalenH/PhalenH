@@ -1,6 +1,7 @@
 # Welcome 👋
 
 I'm Phalen Hazel, full time Software Engineer within PNC's Enterprise Technology & Services practice. Currently working on writing code for test case automation, leading a team of testers, and conducting front-end and back-end validations. Current focus on use of Java, JavaScript, APIs, and SQL skills to partake in continuous integration/continuous deployment (CI/CD) pipeline. Professionally driven by a commitment to clean code, agile practices, and attention to detail. I'm interested in full-stack development, continuous learning, AI functionality, and using technological tools to help others.
+
 As part of PNC, we use bitbucket, so my gitHub doesn't reflect the commits and pushes I make on a daily to weekly basis!
 
 Want to know more about me? [Check out my portfolio!](https://phalenhazel.com/)
